@@ -1,2 +1,2 @@
 # chat-bot
-Used Natural Language Processing NLP and created a basic functioning cht bot using nltk library.
+Used Natural Language Processing NLP and created a basic functioning chat bot using nltk and sklearn libraries.
